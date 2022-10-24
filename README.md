@@ -3,13 +3,13 @@
 ## What is keylogger?
 fluff-seapig website, is a website make with html, css and javascript. It can be run on docker (in my opinion docker is better because its easier to run and uses less resources) and apache2.
 
-# How to install and run?
+## How to install and run?
 
-## Docker install
+### Docker install
 
 https://hub.docker.com/repository/docker/fluffydolphin/fluff-seapig
 
-## How to install git for cloning
+### How to install git for cloning
 
 1. Install git
    ```sh
@@ -18,7 +18,7 @@ https://hub.docker.com/repository/docker/fluffydolphin/fluff-seapig
 
 
 
-## Cloning using git and run on apache2.
+### Cloning using git and run on apache2.
 
 1. Install apache2
    ```sh
