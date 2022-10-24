@@ -16,35 +16,20 @@ https://hub.docker.com/repository/docker/fluffydolphin/fluff-seapig
 
 
 
-## Cloning using git.
+## Cloning using git and run on apache2.
 
-1. Clone the repo
+1. Install apache2
    ```sh
-   git clone https://github.com/fluffydolphin/not-keylogger.git
+   sudo apt install apache2
    ```
-   
-2. Cd into not-keylogger
+2. Clone the repo
    ```sh
-   cd not-keylogger
+   git clone https://github.com/fluffydolphin/fluff-seapig.git
    ```
-   
-2. Cd into server, client or nodes
+   3. Restart apache2
    ```sh
-   cd server
+   sudo systemctl restart apache2
    ```
-   ```sh
-   cd client
-   ```
-   ```sh
-   cd node
-   ```
-3. Run command for either server, client or bot
-   ```sh
-   python3 server
-   ```
-   ```sh
-   python3 client
-   ```
-   ```sh
-   python3 node
-   ```
+      ```sh
+      localhost:80 or locahost:8080
+      ```
