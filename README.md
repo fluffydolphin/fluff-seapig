@@ -7,7 +7,7 @@ fluff-seapig website, is a website make with html, css and javascript. It can be
 
 ### Docker install
 
-https://hub.docker.com/repository/docker/fluffydolphin/fluff-seapig
+https://hub.docker.com/r/fluffydolphin/fluff-seapig
 
 ### How to install git for cloning
 
