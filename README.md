@@ -1,4 +1,4 @@
-# fluff-seapig - this is a lite weight website using html, css and javascript
+# fluff-seapig - is a lite weight website using html, css and javascript
 
 ## What is fluff-seapig?
 fluff-seapig website, is a website make with html, css and javascript. It can be run on docker (in my opinion docker is better because its easier to run and uses less resources) and apache2.
